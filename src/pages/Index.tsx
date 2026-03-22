@@ -322,7 +322,7 @@ function Corporate() {
             <p className="text-muted-foreground leading-relaxed mb-6">
               Com +20 anos de experiência no mercado corporativo, incluindo atuação como gerente de serviços no ramo de prestação de serviços em Recursos Humanos em empresa multinacional, uno conhecimento organizacional à prática clínica para oferecer soluções técnicas e humanizadas.
             </p>
-            <h3 className="font-display text-lg font-semibold text-foreground mb-4">O que está incluído:</h3>
+            <h3 className="font-display text-lg font-semibold text-foreground mb-4">Inclui:</h3>
             <ul className="space-y-3 mb-8">
               {features.map((f, i) => (
                 <li key={i} className="flex items-center gap-3 text-foreground/80">
