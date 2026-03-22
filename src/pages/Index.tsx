@@ -336,7 +336,7 @@ function Corporate() {
               target="_blank" rel="noopener noreferrer"
               className="inline-flex items-center justify-center rounded-md bg-secondary text-secondary-foreground font-semibold text-sm px-7 py-3 tracking-wide uppercase shadow-md hover:shadow-lg hover:brightness-105 active:scale-[0.97] transition-all duration-200"
             >
-              Solicitar Proposta
+              Solicitar Proposta Corporativa
             </a>
           </div>
         </div>
