@@ -314,12 +314,13 @@ function Corporate() {
           </div>
           <div>
             <div className="w-16 h-[3px] bg-secondary mb-6" />
-            <h2 className="font-display text-3xl md:text-4xl text-primary font-semibold mb-4">Saúde Mental Corporativa</h2>
+            <p className="text-xs font-bold tracking-[0.15em] uppercase text-secondary mb-3">Saúde Mental Corporativa</p>
+            <h2 className="font-display text-3xl md:text-4xl text-primary font-semibold mb-4">Programas Corporativos em Saúde Mental & NR-1</h2>
             <p className="text-muted-foreground leading-relaxed mb-4">
-              Programas Corporativos em Saúde Mental & NR-1. Atuação estratégica para empresas com foco em prevenção de riscos psicossociais e implementação de programas contínuos de saúde mental.
+              Atuação estratégica para empresas com foco em prevenção de riscos psicossociais e implementação de programas contínuos de saúde mental em conformidade com o Ministério do Trabalho.
             </p>
             <p className="text-muted-foreground leading-relaxed mb-6">
-              Conformidade com o Ministério do Trabalho. Com +20 anos de experiência no mercado corporativo, uno conhecimento organizacional à prática clínica para oferecer soluções técnicas e humanizadas.
+              Com +20 anos de experiência no mercado corporativo, incluindo atuação como gerente de serviços no ramo de prestação de serviços em Recursos Humanos em empresa multinacional, uno conhecimento organizacional à prática clínica para oferecer soluções técnicas e humanizadas.
             </p>
             <h3 className="font-display text-lg font-semibold text-foreground mb-4">O que está incluído:</h3>
             <ul className="space-y-3 mb-8">
