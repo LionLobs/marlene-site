@@ -66,10 +66,10 @@ function Navbar() {
     {/* LOGO DA CLIENTE AQUI */}
     <a href="#" className="flex items-center gap-2 transition-transform active:scale-95">
       <img 
-        src="/logo-cliente.PNG" 
-        alt="Marlene Corrêa Logo" 
-        className="h-10 w-auto object-contain md:h-12" 
-      />
+  src="/logo-cliente.PNG" 
+  alt="Marlene Corrêa Logo" 
+  className="h-20 w-auto object-contain md:h-24" 
+/>
     </a>
 
     <div className="hidden md:flex items-center gap-8">
