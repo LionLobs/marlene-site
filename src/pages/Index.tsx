@@ -66,7 +66,7 @@ function Navbar() {
     {/* LOGO DA CLIENTE AQUI */}
     <a href="#" className="flex items-center gap-2 transition-transform active:scale-95">
       <img 
-        src="/logo-cliente.jpeg" 
+        src="/logo-cliente.PNG" 
         alt="Marlene Corrêa Logo" 
         className="h-10 w-auto object-contain md:h-12" 
       />
