@@ -461,14 +461,14 @@ function Footer() {
               <Mail size={14} /> macorrea.psi@gmail.com
             </a>
           </div>
-        <div className="space-y-3">
+         <div className="space-y-3">
             <p className="font-semibold text-sm uppercase tracking-wider text-primary-foreground/80">Redes Sociais</p>
             <div className="flex gap-3">
-              {/* Instagram Atualizado */}
+              {/* Instagram com Link Novo */}
               <a href="https://www.instagram.com/macorrea.psicoterapia" target="_blank" rel="noopener noreferrer" className="w-9 h-9 rounded-full bg-primary-foreground/10 flex items-center justify-center hover:bg-primary-foreground/20 transition-colors">
                 <Instagram size={16} />
               </a>
-              {/* WhatsApp */}
+              {/* WhatsApp no lugar do LinkedIn */}
               <a href="https://wa.me/5511973356733" target="_blank" rel="noopener noreferrer" className="w-9 h-9 rounded-full bg-primary-foreground/10 flex items-center justify-center hover:bg-primary-foreground/20 transition-colors">
                 <Phone size={16} />
               </a>
@@ -476,14 +476,14 @@ function Footer() {
           </div>
         </div>
         <div className="border-t border-primary-foreground/15 pt-6 text-center flex flex-col items-center gap-4">
-          {/* Logo no Rodapé */}
+          {/* Logo no lugar do nome Marlene Corrêa */}
           <img src="/logo-cliente.PNG" alt="Logo Marlene Corrêa" className="h-12 w-auto opacity-80" />
           <p className="text-xs text-primary-foreground/50">© {new Date().getFullYear()} Todos os direitos reservados.</p>
         </div>
+      </div>
     </footer>
   );
 }
-
 // ─── PAGE ───
 export default function Index() {
   return (
