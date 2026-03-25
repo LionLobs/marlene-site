@@ -476,9 +476,24 @@ function Footer() {
           </div>
         </div>
         <div className="border-t border-primary-foreground/15 pt-6 text-center flex flex-col items-center gap-4">
-          {/* Logo no lugar do nome Marlene Corrêa */}
-          <img src="/logo-branca.png" alt="Logo Marlene Corrêa" className="h-12 w-auto opacity-80" />
-          <p className="text-xs text-primary-foreground/50">© {new Date().getFullYear()} Criado por Agência LionLobs. Todos os direitos reservados.</p>
+             {/* Logo no lugar do nome Marlene Corrêa */}
+<img 
+  src="/logo-cliente.PNG" 
+  alt="Logo Marlene Corrêa" 
+  className="h-12 w-auto opacity-80" 
+/>
+
+<p className="text-xs text-primary-foreground/50">
+  © {new Date().getFullYear()} Criado por{" "}
+  <a 
+    href="https://instagram.com/lionlobs" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="underline hover:opacity-80 transition"
+  >
+    @lionlobs
+  </a>. Todos os direitos reservados.
+</p>
         </div>
       </div>
     </footer>
