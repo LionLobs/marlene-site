@@ -478,7 +478,7 @@ function Footer() {
         <div className="border-t border-primary-foreground/15 pt-6 text-center flex flex-col items-center gap-4">
              {/* Logo no lugar do nome Marlene Corrêa */}
 <img 
-  src="/logo-cliente.PNG" 
+  src="/logo-branca.png" 
   alt="Logo Marlene Corrêa" 
   className="h-12 w-auto opacity-80" 
 />
